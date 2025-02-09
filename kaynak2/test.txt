@@ -1,1 +1,2 @@
 Git oluşturmak için ilk adım atıldı.
+Commit eklemek için gerekli atamalar yapıldı.
